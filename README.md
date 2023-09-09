@@ -1,0 +1,2 @@
+# ssgen
+Shadowsocks config generator
