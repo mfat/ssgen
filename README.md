@@ -17,8 +17,10 @@ Install shadowsocks-libev or shadowsocks-rust on your server.
 Copy the configuration file you created with the app to /etc/shadowsocks-libev with the name ```config.json```.
 
 Restart shadowsocks service:
+
 ```sudo systemctl restart shadowsocks-libev```
 Verify everything is working with:
+
 ```sudo systemctl status shadowsocks-libev```
 
 
